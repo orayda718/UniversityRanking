@@ -1,7 +1,6 @@
 # Name: Orayda Shagifa
-# CS1026A Assignment 3: Universities Ranking
-# Description: Program reads the content of two .csv files and displays information extracted from these files
-# Due Date: 11.16.2022
+# Description: Universities Ranking, Program reads the content of two .csv files and displays information extracted from these files
+# Date: 11.16.2022
 
 # loads and sorts data from the two given files
 def loadFiles(selectedCountry, uniFile, capitalFile):
